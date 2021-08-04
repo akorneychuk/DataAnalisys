@@ -1,3 +1,6 @@
+https://docs.google.com/spreadsheets/d/1ZdTdcy2k5ZLqm8fINyhgh_YMGdh32jGbg8KLVpULkR8/edit?usp=sharing
+
+
 # DataAnalisys
 #### Collection of self implemented methods of mathematical optimizations, deep neural networks
 
